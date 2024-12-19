@@ -1,0 +1,1 @@
+Ante todo hola buenos dias tardes o noches aqui se pondran las versiones anteriores del prototipo pueden ser inestables y ya que estara solo el ejecutable se tendran que modificar las rutas para que estos funcionen 
