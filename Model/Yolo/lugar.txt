@@ -1,0 +1,1 @@
+lugar para yolov3 y sus pesos como el ayudante de clases coco.names
